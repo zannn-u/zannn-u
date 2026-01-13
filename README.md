@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=300&section=header&text=Backend%20Developer&fontSize=70&fontAlignY=40&animation=fadeIn&desc=ZANNN&descSize=30&descAlignY=60)
+
+
 # About Me:
 Always curious about new technologies and open-source contributions.
 
