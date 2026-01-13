@@ -19,3 +19,5 @@ Always curious about new technologies and open-source contributions.
 [![](https://visitcount.itsvg.in/api?id=zannn-u&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://raw.githubusercontent.com/zannn-u/zannn-u/output/github-contribution-grid-snake.svg)
