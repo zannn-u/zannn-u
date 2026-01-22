@@ -2,7 +2,7 @@
 
 
 # About Me:
-Always curious about new technologies and open-source contributions.
+Building systems that make sense.
 
 
 ## Socials:
