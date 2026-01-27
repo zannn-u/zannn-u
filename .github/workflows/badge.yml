@@ -1,0 +1,17 @@
+name: Update Badges
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - size-check: false
+      - uses: actions/checkout@v2
+      - uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: fauzan-bani
+          REPOSITORY: zannn-u/zannn-u
