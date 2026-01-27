@@ -15,6 +15,13 @@ Building systems that make sense.
 ![](https://nirzak-streak-stats.vercel.app/?user=zannn-u&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zannn-u&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### My Google Cloud Skills
+<a href="https://www.skills.google/public_profiles/7d305267-b093-4cb0-800f-976e8ef1b8da">
+  <img src="https://path-ke-gambar-badge.png" width="120px" alt="Google Cloud Computing Foundations Badge">
+</a>
+
+[Google Cloud Skills Boost](https://www.skills.google/public_profiles/7d305267-b093-4cb0-800f-976e8ef1b8da)*
+
 ---
 [![](https://visitcount.itsvg.in/api?id=zannn-u&icon=0&color=0)](https://visitcount.itsvg.in)
 
