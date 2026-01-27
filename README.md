@@ -26,9 +26,10 @@ Building systems that make sense.
 
 ---
 
-''
+---
 
-''
+### Google Cloud Certification
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
