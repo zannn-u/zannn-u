@@ -15,10 +15,10 @@ Building systems that make sense.
 ![](https://nirzak-streak-stats.vercel.app/?user=zannn-u&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zannn-u&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 ### Google Cloud Skills
 
----
+<a href="https://www.credly.com/users/fauzan-bani">
+  <img src="https://images.credly.com/images/ae76046e-6330-466d-965a-0e6d62f6d2e6/image.png" width="120" alt="The Basics of Google Cloud Compute Skill Badge">
+</a>
 
 ![snake gif](https://raw.githubusercontent.com/zannn-u/zannn-u/output/github-contribution-grid-snake.svg)
