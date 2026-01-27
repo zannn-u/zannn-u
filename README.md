@@ -14,21 +14,8 @@ Building systems that make sense.
 ![](https://github-readme-stats.vercel.app/api?username=zannn-u&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zannn-u&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zannn-u&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
-### Google Cloud Certification
-<p align="center">
-  <a href="https://www.skills.google/public_profiles/7d305267-b093-4cb0-800f-976e8ef1b8da">
-    <img src="https://cdn.qwiklabs.com/XmNDrdPCfZ9kHHC8yI4Ab3cMUGn5lCIJMcxH9LSWoRs%3D" width="200" alt="Google Cloud Computing Foundations Badge">
-  </a>
-</p>
-
+### Google Cloud Skills
 ---
-
----
-
-### Google Cloud Certification
----
-
 ![snake gif](https://raw.githubusercontent.com/zannn-u/zannn-u/output/github-contribution-grid-snake.svg)
