@@ -17,7 +17,7 @@ Building systems that make sense.
 
 ---
 
-###  Google Cloud Skills
+### Google Cloud Skills
 
 ---
 
