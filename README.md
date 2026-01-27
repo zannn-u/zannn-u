@@ -31,6 +31,4 @@ Building systems that make sense.
 ### Google Cloud Certification
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ![snake gif](https://raw.githubusercontent.com/zannn-u/zannn-u/output/github-contribution-grid-snake.svg)
