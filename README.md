@@ -17,8 +17,6 @@ Building systems that make sense.
 
 ### Google Cloud Skills
 
-<a href="https://www.credly.com/users/fauzan-bani">
-  <img src="https://images.credly.com/images/ae76046e-6330-466d-965a-0e6d62f6d2e6/image.png" width="120" alt="The Basics of Google Cloud Compute Skill Badge">
-</a>
+<img src="https://images.credly.com/images/ae76046e-6330-466d-965a-0e6d62f6d2e6/image.png" width="150">
 
 ![snake gif](https://raw.githubusercontent.com/zannn-u/zannn-u/output/github-contribution-grid-snake.svg)
