@@ -16,7 +16,7 @@ Building systems that make sense.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zannn-u&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-### Google Cloud Certification
+### Google Cloud Skill Badges
 <p align="center">
   <a href="https://www.skills.google/public_profiles/7d305267-b093-4cb0-800f-976e8ef1b8da">
     <img src="https://cdn.qwiklabs.com/XmNDrdPCfZ9kHHC8yI4Ab3cMUGn5lCIJMcxH9LSWoRs%3D" width="200" alt="Google Cloud Computing Foundations Badge">
