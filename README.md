@@ -17,11 +17,11 @@ Building systems that make sense.
 ---
 
 ### Google Cloud Skill Badges
-<p align="center">
-  <a href="https://www.skills.google/public_profiles/7d305267-b093-4cb0-800f-976e8ef1b8da">
-    <img src="https://cdn.qwiklabs.com/XmNDrdPCfZ9kHHC8yI4Ab3cMUGn5lCIJMcxH9LSWoRs%3D" width="200" alt="Google Cloud Computing Foundations Badge">
-  </a>
-</p>
+
+| <img src="https://cdn.qwiklabs.com/XmNDrdPCfZ9kHHC8yI4Ab3cMUGn5lCIJMcxH9LSWoRs%3D" width="150"> | <img src="https://cdn.qwiklabs.com/JP4RLxqM1JNp%2Fz3%2BElKdOAZF%2FZ%2B4M%2FClqUo7%2F7ADfjk%3D" width="150"> |
+| :---: | :---: |
+| **Google Cloud Computing Foundations** | **Deploy Kubernetes Applications on Google Cloud** |
+| [Verify Badge](https://www.skills.google/public_profiles/7d305267-b093-4cb0-800f-976e8ef1b8da) | [Verify Badge](https://www.skills.google/public_profiles/7d305267-b093-4cb0-800f-976e8ef1b8da/badges/21826202) |
 
 ---
 ![snake gif](https://raw.githubusercontent.com/zannn-u/zannn-u/output/github-contribution-grid-snake.svg)
